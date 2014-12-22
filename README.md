@@ -36,11 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Here folowith a scorneful image or monstrus shape of a maruelous  stra[n]ge fygure called, Sileni al
+
 #####Body#####
-Here folowith a scorneful image or monstrus shape of a maruelous  stra[n]ge fygure called, Sileni al
+
+1. ¶ Sileni Alcibiadis.
+
 #####Back#####
-Here folowith a scorneful image or monstrus shape of a maruelous  stra[n]ge fygure called, Sileni al
+ ¶ Imprynted at London by me Iohn̄ Goughe. Cum priuilegio regali.¶ And also be for to sell in Fletes
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
